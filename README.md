@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RAV
-- 👀 I’m interested in web3
+- 👋 Hi, I’m @sneh
+- 👀 I’m interested in growing my career as an software developer
 - 🌱 I’m currently learning different languages that most of the humans can't understand
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me patelsneh34@gmail.com
 
 <!---
